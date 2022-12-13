@@ -1,6 +1,6 @@
 # POWER-BI-PROJECTS
 
-# :soccer: FIFA WORLD CUP :soccer:
+<h2 align="center"><i>  :soccer: FIFA WORLD CUP :soccer:</i></h3>
 
 The World Cup is the most prestigious association football tournament in the world, as well as the most widely viewed and followed single sporting event in the world.
 
