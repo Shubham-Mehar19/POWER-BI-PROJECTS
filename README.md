@@ -11,3 +11,15 @@ The World Cup is the most prestigious association football tournament in the wor
   Checkout ON [YOUTUBE](https://youtu.be/wAM57BS9h20) :point_left:
   
   :soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer:
+
+<h1 align="center"><i>  🏏 CRICKET DATA ANALYTICS 🏏 </i></h1>
+
+Cricket is a very popular sport, played all around the world, though it is more popular in certain countries.Indians are very passionate about their cricket and for INDIAN team.If you look at the statistics, you will learn that cricket is the second-most watched sport in the world behind football.
+
+ Checkout Dashboard [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWE3NzQ5ZjQtOTFjYy00NjcyLTk3MTgtZGVmNDkxN2Y4OWE0IiwidCI6ImVkMjk2ZTI0LWEyNDUtNGJiNS04NWRlLTRiNDRiZWVlZTA3NiJ9&pageName=ReportSection)  :point_left:
+ 
+ Checkout Dashboard [NovyPro](https://www.novypro.com/project/cricket-data-power-bi) :point_left:
+ 
+  Checkout ON [YOUTUBE](https://www.youtube.com/watch?v=z55-QYUgz_g) :point_left:
+  
+  <h1>🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏</h1>
