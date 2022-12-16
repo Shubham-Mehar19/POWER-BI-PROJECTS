@@ -22,4 +22,4 @@ Cricket is a very popular sport, played all around the world, though it is more 
  
   Checkout ON [YOUTUBE](https://www.youtube.com/watch?v=z55-QYUgz_g) :point_left:
   
-  <h1>🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏</h1>
+  <h1>🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏</h1>
