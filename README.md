@@ -23,3 +23,12 @@ Cricket is a very popular sport, played all around the world, though it is more 
   Checkout ON [YOUTUBE](https://www.youtube.com/watch?v=z55-QYUgz_g) :point_left:
   
   <h1>🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏</h1>
+  
+  <h2 align="center"><i>  :chart_with_upwards_trend: US SUPER STORE SALES DATA ANALYTICS :chart_with_upwards_trend:</i></h2>
+  
+This is a superstore dataset, where I perform extensive data analysis. 
+
+
+ Checkout Dashboard [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjk0OGNiOWYtNTkyNS00MDc3LWFmZjgtZGEzZTU3NDY0Yzc0IiwidCI6ImVkMjk2ZTI0LWEyNDUtNGJiNS04NWRlLTRiNDRiZWVlZTA3NiJ9&pageName=ReportSection8f8fccce8adcfb82498a)  :point_left:
+ 
+ :bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend::bar_chart::chart_with_upwards_trend::bar_chart: :chart_with_upwards_trend:
